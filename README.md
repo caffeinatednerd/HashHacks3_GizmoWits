@@ -8,9 +8,13 @@
   This results in mass crop failures in many areas across India.
   
 ## Idea
-  A real-time assistant which can answer all the general queries of farmers.
+  A real-time assistant which can answer all the general queries of farmers by taking in their voice input in local languages apart from English.
   
 ## Problems our Idea overcomes
   - Sudden Hike in prices of vegetables.
   - Mass farmer suicides and protests.
   - Crop import from other countries which decreases the GDP of the importing nation.
+
+## Tech Stacks
+  - Python 
+    - Numpy, Pandas, NLTK, SciKit    
