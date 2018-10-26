@@ -1,6 +1,6 @@
 # Real-time assistant for answering general queries of Indian farmers using AI  
 ## Problem Statement
-  In India, most farmers are illiterate and have faced many crop failures over the last decade.
+  In India, most farmers are illiterate and have faced many crop failures over the last decade. Kisan call centres have also failed in providing the information efficiently to the farmers.
 #### Examples 
   - A farmer in a particular area not knowing about the weather changes that are about to take place in the coming days even though we have technologies like Accuweather (Google Weather).
   - A farmer may not know about which pesticide is best for a particular plant species.
