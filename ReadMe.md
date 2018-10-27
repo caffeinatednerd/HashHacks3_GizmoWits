@@ -17,4 +17,5 @@
 
 ## Tech Stacks
   - Python 
-    - Numpy, Pandas, NLTK, SciKit    
+    - Numpy, Pandas, NLTK, SciKit
+    - Google Text To Speech, Yandex Translator API
