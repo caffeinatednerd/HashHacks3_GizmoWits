@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "trivia-f02b8",
+  "private_key_id": "ec8c972ddb15070612a7a43a9422d6a0d1a9da47",
+  "private_key": " -----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCHxtvJD7zpOitm\nVrUIy1368GgzA8cTZrpg13tO7UvEFqN8k1Uk1+YBXfAb+Zi/Zw9hvjA39dOjdMmJ\nQ2lBHxN2uY/b+nXhGbJIAZNtQgCdfUro9Mxfs1X77VJLUJ+cpgbN0e+FoKBs6NRg\nHFU4fOw1C3Nc8v3L0gxVsz0gJvemuE/j5H7EEk+8ay2X7hie0R93vO2Dkn1LOTeK\n4pzLCWr8GWTdGSwMqD4fR2FOld3G20V3xYurF6VLol9+NOyI699BcD5L0s2VeMjn\nQwdLqHC76QTveShR2CW7zWhf8lmqMihwVC3bM1YCMdUP/kjEWNN00cYEGUETKn0e\nkMsBYCA/AgMBAAECggEAFP1a8MQsEhSvV4zD7m4cmInIXJ/oNfRFj78ADagwHvTY\n+o3UNck311zsR4bYZDkhxEcghnt255KgV/CXOZKnnEz8vlGuc3QDfuTaI6PLxeJJ\nTaYPtM5b1oGjnTJY2mCYNgKO9/toPC3qLEl1AIc0r3vrrkzU4J4Xe2V6vO5ejo6U\ntWJa2dIy/kM3MMXfyYeRXzd5T0imAs7e2Wu6269zT506pQyGrzZyDuQ+j4ftvuE7\nYUB6aT9J4all0W7qL+goTiKi6BL54r9dDSrUetewmsxq/eXrQJz62bW910jpHW1b\n2nTz/YNYg+BTN+ejHiWKeUZh3nHcKXJiVhLm82Vu0QKBgQC8pkTZCM6Z0sHbTHky\nmnbNdMz3J3zKI4msKXIb2SajtbBderzliB8cdEh0JCfx72ejwcTr98pAkS0FxqHq\nsn4XC+9UBmyyhSQNOMF881P21v3G1Ut+dIsUXSW4rhPjUBHpwUNxkJIeGjovOPg2\neAiVfLgUORoe6NODdujHiG48ywKBgQC4QEIh6VxaCv5FGuXmfKU+LnHPemhYL8Qf\nEvElKzybVQS5gDKj6lZ2SE7BALDdzkeolqgcD3AEGIZPYv3eCYMnT5cXUI2xiL6H\nCwp8XyGZnmDLmIvvZ+HteLd/qM3TZc4BveLFFwPqQGJ4gMmFHzw7GgW0KgL+GZkz\nOJR2vPlP3QKBgEaJwSqJ8X5w4M2YDaVPPmbaap1rpWyL1zmJkcI58wm5sQVzFFib\nCk8AZ+sNbeY3xz/i/zfgQj7cScJkIDz6ms0RSF7ZvCEQSYesFiUbcuTURLXpIT5a\nY3qszaL9bDBNyzTlb8tx7EDXO7RWj/EF9ue2Z7ogE9VE53m7p5ScPeP7AoGBAJb7\n0TWIzSzcJVDrockmCyLRXGHwpODfA4+TLhiPPbLsEFsSOm0n8oIq7p4pusWH7CCy\nlD+qRtiUYDtdmzsAAIGOLvnkALiinb57xbP1IMuJhThRYRplvjWi3nu2EDRTEGVM\n/S8UlRi4efjVUE3OMsUbpeDlLF6dC3V1v/MtF//hAoGAJZHu4vPynbyOjau+byti\n1zdV+qCZAcknZfsvZyueRQnVPLaAIBkmQaNr6PogHLyK+qPoiMIbkkb+dz0ZLtcj\nDnioNLUZr22gVPasS/SnaX3sQtJb4wmYs6UuRWBkSvZgSCLkKAehFMJjbHKKF0WW\nxrqlxApR2ylqJr/xH1Gl5xs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gizmowits@trivia-f02b8.iam.gserviceaccount.com",
+  "client_id": "100450553067266652586",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gizmowits%40trivia-f02b8.iam.gserviceaccount.com"
+}
